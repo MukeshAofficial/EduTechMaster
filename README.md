@@ -16,7 +16,7 @@ EduTechMaster is a comprehensive educational platform designed to revolutionize 
 
 - **OpenAI**: Integration with OpenAI's language models for various AI-powered features.
 - **Flask**: Backend development using Flask, a lightweight and flexible web framework for Python.
-- **Gemini API**: Integration with the Gemini API for web scraping to fetch education news and web content.
+- **Gemini API**: Integration with the Gemini API for web scraping and summarizing web content.
 - **HTML & CSS**: Frontend interface developed using HTML and CSS for a seamless user experience.
 
 ## How to Use
